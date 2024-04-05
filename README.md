@@ -1,6 +1,6 @@
 ### Olá, eu sou Thiago Abreu! 👋
 
--🚀 Estou me especializando em desenvolvimento mobile
+-🚀 Estou me especializando em desenvolvimento mobile <br/>
 -🔥 Aprendendo Flutter, React Native
 
 👨‍💻 Desenvolvedor Mobile | 📚 Estudante de Análise e Desenvolvimento de Sistemas
