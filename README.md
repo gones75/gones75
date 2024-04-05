@@ -18,7 +18,7 @@ Principais Habilidades:
 📅 Análise de Dados: Python. <br/>
 🔧 Ferramentas: Git, VSCode. <br/>
 
-Contato:
+Contato: <br/>
 📧 Email: gonesteago@gmail.com <br/>
 🔗 LinkedIn: https://www.linkedin.com/in/thiago-abreu-83505b264/ <br/>
 
