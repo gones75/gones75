@@ -1,25 +1,26 @@
 ### Olá, eu sou Thiago Abreu! 👋
 
 -🚀 Estou me especializando em desenvolvimento mobile <br/>
--🔥 Aprendendo Flutter, React Native
+-🔥 Aprendendo Flutter, React Native <br/>
 
-👨‍💻 Desenvolvedor Mobile | 📚 Estudante de Análise e Desenvolvimento de Sistemas
+👨‍💻 Desenvolvedor Mobile. <br/>
+📚 Estudante de Análise e Desenvolvimento de Sistemas. <br/>
 
 Sobre Mim:
 
-👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
-💻 Desenvolvedor Mobile apaixonado por criar aplicações.
-🚀 Comprometido com a excelência, qualidade de código e melhores práticas.
+👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas. <br/>
+💻 Desenvolvedor Mobile apaixonado por criar aplicações. <br/>
+🚀 Comprometido com a excelência, qualidade de código e melhores práticas. <br/>
 
 Principais Habilidades:
 
-📱  Desenvolvimento Mobile: Flutter, React Native.
-📅 Análise de Dados: Python.
-🔧 Ferramentas: Git, VSCode.
+📱  Desenvolvimento Mobile: Flutter, React Native. <br/>
+📅 Análise de Dados: Python. <br/>
+🔧 Ferramentas: Git, VSCode. <br/>
 
 Contato:
-📧 Email: gonesteago@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/thiago-abreu-83505b264/
+📧 Email: gonesteago@gmail.com <br/>
+🔗 LinkedIn: https://www.linkedin.com/in/thiago-abreu-83505b264/ <br/>
 
 ### Tecnologias que uso no meu dia a dia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
