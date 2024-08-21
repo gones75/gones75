@@ -11,7 +11,7 @@ Sobre Mim: <br/>
 
 Principais Habilidades: <br/>
 
-📱  Desenvolvimento Web: PHP, Vue.js. <br/>
+📱  Desenvolvimento Web: PHP, Laravel, Vue.js. <br/>
 📅 Análise de Dados: Python. <br/>
 🎲 Banco de dados: MySQL, MongoDB <br/>
 ☁️ Cloud: AWS <br/>
