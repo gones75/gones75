@@ -1,8 +1,5 @@
 ### Olá, eu sou Thiago Abreu! 👋
 
--🚀 Estou me especializando em Desenvolvimento Web <br/>
--🔥  Utilizo no meu dia a dia: PHP, Laravel, Vue.js, Python <br/>
-
 👨‍💻 Desenvolvedor Full-Stack. <br/>
 📚 Estudante de Análise e Desenvolvimento de Sistemas. <br/>
 
